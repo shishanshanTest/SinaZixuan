@@ -1,0 +1,8 @@
+{
+  "zixuan_chakan":{"source":"iphone_app","uid":5208406728,"version":"4.4.5"},
+  "zixuan_chuangjian":{"source":"iphone_app","uid":5208406728,"version":"4.4.5","terminal_id":"","name":"自选1"},
+  "zixuan_update":{"source":"iphone_app","uid":5208406728,"version":"4.4.5","terminal_id":"","name":"修改后名称"},
+  "zixuan_tiaozhengshunxu":{"source":"iphone_app","uid":5208406728,"version":"4.4.5"},
+  "zixuan_yincang":{"source":"iphone_app","uid":5208406728,"version":"4.4.5","status":1},
+  "zixuan_shanchuzixuan":{"source":"iphone_app","uid":5208406728,"version":"4.4.5","terminal_id":""}
+}
